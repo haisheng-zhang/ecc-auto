@@ -1,6 +1,6 @@
 {
   "name": "ecc-auto",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "ECC plugin for automatic code review, security scanning, and session reporting",
   "bin": {
     "ecc-auto": "./bin/ecc-auto.js"
@@ -9,11 +9,11 @@
     "test": "echo \"No tests yet\" && exit 0"
   },
   "keywords": [
-    "ecc",
     "claude-code",
-    "everything-claude-code",
     "ai-harness",
     "harness-engineering",
+    "ecc",
+    "everything-claude-code",
     "ai-automation",
     "ai-coding-assistant",
     "code-review",
