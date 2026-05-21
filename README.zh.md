@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="README.md">English</a> | <a href="README.zh.md">中文</a>
+</div>
+
 # ecc-auto
 
 > [ECC (Everything Claude Code)](https://github.com/affaan-m/everything-claude-code) 的自动化代码质量工具 —— 每次文件变更后自动触发代码审查、安全扫描、测试覆盖检测、构建错误修复等功能。
@@ -175,6 +179,11 @@ ecc-auto 是一个 Claude Code 插件，分为两个层次：
   scripts/summarize.js       ← Stop：生成 session 报告
 ```
 
+## 链接
+
+⭐ [给这个项目点 Star](https://github.com/haisheng-zhang/ecc-auto)，如果对你有帮助的话
+🐙 [关注 @haisheng-zhang](https://github.com/haisheng-zhang) on GitHub
+
 ## 开源协议
 
-MIT License — Copyright (c) 2026 Haisheng Zhang
+MIT — 可自由使用，按需修改，欢迎回馈社区。

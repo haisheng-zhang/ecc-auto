@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="README.md">English</a> | <a href="README.zh.md">中文</a>
+</div>
+
 # ecc-auto
 
 > Automatic code quality automation for [ECC (Everything Claude Code)](https://github.com/affaan-m/everything-claude-code) — code review, security scan, test coverage, build error resolution, and more, triggered automatically on every file change.
@@ -175,6 +179,11 @@ ecc-auto is a Claude Code plugin with two layers:
   scripts/summarize.js       ← Stop: session report
 ```
 
+## Links
+
+⭐ [Star this repo](https://github.com/haisheng-zhang/ecc-auto) if you find it useful
+🐙 [Follow @haisheng-zhang](https://github.com/haisheng-zhang) on GitHub
+
 ## License
 
-MIT License — Copyright (c) 2026 Haisheng Zhang
+MIT — Use freely, modify as needed, contribute back if you can.
