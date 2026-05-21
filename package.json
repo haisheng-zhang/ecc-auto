@@ -1,6 +1,6 @@
 {
   "name": "ecc-auto",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "ECC plugin for automatic code review, security scanning, and session reporting",
   "bin": {
     "ecc-auto": "./bin/ecc-auto.js"
