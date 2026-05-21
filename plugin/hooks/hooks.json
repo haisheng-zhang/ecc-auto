@@ -1,0 +1,25 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "tool_name == \"Write\" || tool_name == \"Edit\" || tool_name == \"MultiEdit\"",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"$PLUGIN_DIR/scripts/check.js\""
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"$PLUGIN_DIR/scripts/summarize.js\""
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "ecc-auto",
+  "version": "0.0.1",
+  "description": "ECC plugin for automatic code review, security scanning, and session reporting",
+  "bin": {
+    "ecc-auto": "./bin/ecc-auto.js"
+  },
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "ecc",
+    "claude-code",
+    "everything-claude-code",
+    "ai-harness",
+    "harness-engineering",
+    "ai-automation",
+    "ai-coding-assistant",
+    "code-review",
+    "security-scan"
+  ],
+  "author": "Haisheng Zhang",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haisheng-zhang/ecc-auto.git"
+  },
+  "bugs": {
+    "url": "https://github.com/haisheng-zhang/ecc-auto/issues"
+  },
+  "homepage": "https://github.com/haisheng-zhang/ecc-auto#readme",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
